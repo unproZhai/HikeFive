@@ -1,7 +1,7 @@
 {
-  "name": "devconnector",
+  "name": "hikerconnector",
   "version": "1.0.0",
-  "description": "Social network for developers",
+  "description": "Social network for hikers",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
